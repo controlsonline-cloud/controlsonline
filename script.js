@@ -1,8 +1,8 @@
 // Pega aquí las URLs exactas de tus cuentas cuando las tengas.
 const SOCIAL_URLS = {
-  facebook: "",
-  marketplace: "",
-  instagram: "",
+facebook: "https://www.facebook.com/profile.php?id=61595169488074",
+marketplace: "",
+instagram: "https://www.instagram.com/controlsonlinerd/",
   youtube: "",
   linkedin: "",
   tiktok: ""
